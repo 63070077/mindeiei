@@ -15,7 +15,7 @@
             <img src="heart.jpg" width="500px">
             <img src="Paw.jpg" width="500px">
         </p>
-        <p align="center"
+        <p align="center">
             <a href="https://www.pinterest.com/DabbleMin/%E0%B8%A1%E0%B8%A1/">My fevorite web</a>
         </p>
             <div align="center">
