@@ -1,4 +1,4 @@
-<hyml>
+<html>
     <head>
         <meta charset="UTF-8">
         <title>hello teacher</title>
@@ -31,4 +31,4 @@
                 "ส่วนคุณแม่.. เห็นคุณพ่อพูดอยู่เรื่อยเลยว่าคุณแม่ชอบแรดค่ะ.." </p>
             </div>
     </body>
-</hyml>
+</html>
