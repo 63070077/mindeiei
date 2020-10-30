@@ -1,20 +1,23 @@
 <hyml>
     <head>
-        <title>Hello world</title>
+        <meta charset="UTF-8">
+        <title>hello teacher</title>
     </head>
     <body>
-        <h1>My First Heading</h1>
-        <p>My First Paragraph</p>
-        <img src="cat.jpg">
+        <h1>Welcome To My Webpage</h1>
+        <p>ธนวิชญ์ ลักษณะ (มายด์)</p>
+        <img src="heart.jpg"><img src="Paw.jpg">
         <br>
-        <a href="http:www.it.kmitl.ac.th">This is a Link</a>
-
-        <h2>The unordered list</h2>
-        <ul>
-            <li>Google</li>
-            <li>Yahoo</li>
-            <li>Amazon</li>
-        </ul>
-    
+        <a href="https://www.pinterest.com/DabbleMin/%E0%B8%A1%E0%B8%A1/">My fevorite web</a>
+        <br>
+        <p>เรื่องตลก</p>
+        <p>คุณครูคุยกับเด็กนักเรียนอนุบาล 1 ระหว่างคอยผู้ปกครองมารับกลับบ้าน</p>
+        <p>"ที่บ้านหนูเลี้ยงสัตว์อะไรบ้างคะ" คุณครูถาม</p>
+        <p>"มีหมาแค่ตัวเดียวค่ะ แต่ข้างบ้านเขาเลี้ยงตั้งหลายอย่างค่ะ มีนก แมว ชะนีก็มีค่ะ" หนูน้อยเล่า</p>
+        <p>"แล้วหนูชอบอะไรมากที่สุดคะ"</p>
+        <p>"ชอบนกกับปลาสวยๆ คะ"</p>
+        <p>"เหรอคะ แล้วคุณพ่อคุณแม่ละคะชอบอะไร" ครูถามต่อ</p>
+        <p>"คุณพ่อชอบอ่านหนังสือ ไม่ชอบสัตว์อะไรซักอย่าง.." หนูน้อยส่ายหน้าเมื่อพูดถึงคุณพ่อ</p>
+        <p>"ส่วนคุณแม่.. เห็นคุณพ่อพูดอยู่เรื่อยเลยว่าคุณแม่ชอบแรดค่ะ.." </p>
     </body>
 </hyml>
