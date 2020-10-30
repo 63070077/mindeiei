@@ -7,6 +7,7 @@
                 margin:40px 20px;
                 background-color: #abe9ff;
             }
+        </style>
     </head>
     <body>
         <h1 align="center">Welcome To My Webpage</h1>
