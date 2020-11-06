@@ -13,8 +13,8 @@
         <h1 align="center">Welcome To My Webpage</h1>
         <h2 align="center">ธนวิชญ์ ลักษณะ (มายด์)</h2>
         <p align="center" style="padding: 20px 0px;">
-            <img src="heart.jpg" width="500px">
-            <img src="Paw.jpg" width="500px">
+            <img src="img/staffs/staff1.jpg" width="500px">
+            <img src="img/staffs/staff3.jpg" width="500px">
         </p>
         <p align="center">
             <a href="https://www.pinterest.com/DabbleMin/%E0%B8%A1%E0%B8%A1/">My fevorite web</a>
